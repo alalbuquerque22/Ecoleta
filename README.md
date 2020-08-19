@@ -47,7 +47,7 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
 
   \* Veja o arquivo <kbd>[package.json](./sources/server/package.json)</kbd>
 
-#### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
+#### **Mobile** (React Native + typescript)
 
   - **Expo**
   - **Expo Google Fonts**
