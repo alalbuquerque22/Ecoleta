@@ -6,7 +6,7 @@
 
 <h3 align="center">
 
-♻️ Ecoleta é um projeto **Open Source** desenvolvido na semana **Next Level Week (1.0)** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React e React Native***.
+♻️ Ecoleta é um projeto **Open Source** desenvolvido na semana **Next Level Week (1.0)** da **Rocketseat** utilizando as tecnologias ***TypeScript, Node, React e React Native***.
 
 </h3>
 
@@ -21,57 +21,55 @@ O projeto tem como finalidade **estabelecer uma conexão** entre **empresas e/ou
 ## **:computer: TECNOLOGIAS**
 
 
-#### **Website** ([React][react] + [TypeScript][typescript])
+#### **Website** (React + typescript)
 
-  - **[React Router Dom][react_router_dom]**
-  - **[React Icons][react_icons]**
-  - **[Axios][axios]**
-  - **[Leaflet][leaflet]**
-  - **[React Leaflet][react_leaflet]**
-  - **[React Dropzone][react_dropzone]**
+  - **React Router Dom**
+  - **React Icons**
+  - **Axios**
+  - **Leaflet**
+  - **React Leaflet**
+  - **React Dropzone**
 
 
   \* Veja o arquivo <kbd>[package.json](./sources/website/package.json)</kbd>
 
-#### **Server** ([NodeJS][node] + [TypeScript][typescript])
+#### **Server** (NodeJS + TypeScript])
 
-  - **[Express][express]**
-  - **[CORS][cors]**
-  - **[KnexJS][knex]**
-  - **[SQLite][sqlite3]**
-  - **[ts-node][tsnode]**
-  - **[dotENV][dotenv]**
-  - **[Multer][multer]**
-  - **[Celebrate][celebrate]**
-  - **[Joi][joi]**
+  - **Express**
+  - **CORS**
+  - **KnexJS**
+  - **SQLite**
+  - **ts-node**
+  - **dotENV**
+  - **Multer**
+  - **Celebrate**
+  - **Joi**
 
   \* Veja o arquivo <kbd>[package.json](./sources/server/package.json)</kbd>
 
 #### **Mobile** ([React Native][react_native] + [TypeScript][typescript])
 
-  - **[Expo][expo]**
-  - **[Expo Google Fonts][expo_google_fonts]**
-  - **[React Navigation][react_navigation]**
-  - **[React Native Maps][react_native_maps]**
-  - **[Expo Constants][expo_constants]**
-  - **[React Native SVG][react_native_svg]**
-  - **[Axios][axios]**
-  - **[Expo Location][expo_location]**
-  - **[Expo Mail Composer][expo_mail_composer]**
+  - **Expo**
+  - **Expo Google Fonts**
+  - **React Navigation**
+  - **React Native Maps**
+  - **Expo Constants**
+  - **React Native SVG**
+  - **Axios**
+  - **Expo Location**
+  - **Expo Mail Composer**
 
   \* Veja o arquivo <kbd>[package.json](./sources/mobile/package.json)</kbd>
 
 #### **Utilitários**
 
 - Protótipo: **[Figma](https://www.figma.com/)** &rarr; **<kbd>[Protótipo (Ecoleta)](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta)</kbd>**
-- API: **[IBGE API][ibge_api]** &rarr; **<kbd>[API de UFs][ibge_api_ufs]</kbd>**, **<kbd>[API de Municípios][ibge_api_municipios]</kbd>** 
-- Maps: **[Leaflet][leaflet]**
-- Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
-- Markdown: **[StackEdit][stackedit]**, **<kbd>[Markdown Emoji][markdown_emoji]</kbd>**
-- Commit Conventional: **[Commitlint][commitlint]**
-- Teste de API: **[Insomnia][insomnia]**
-- Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
-- Fontes: **[Ubuntu][font_ubuntu]**, **[Roboto][font_roboto]**
+- API: **IBGE API** &rarr;  
+- Maps: **Leaflet**
+- Editor: **Visual Studio Code** &rarr; 
+- Teste de API: **Insomnia**
+- Ícones: **Feather Icons**, **Font Awesome**
+- Fontes: **Ubuntu**, **Roboto**
 
 
 ## **:wine_glass: COMO UTILIZAR**
@@ -194,7 +192,7 @@ $ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
 - [TypeScript](https://www.typescriptlang.org/docs/home.html)
 - [React Native](https://reactnative.dev/docs/getting-started)
 - [Expo](https://expo.io/learn)
-- [Knex][knex]
+- [Knex](http://knexjs.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [Node](https://nodejs.org/en/)
 - [Celebrate](https://github.com/arb/celebrate)
